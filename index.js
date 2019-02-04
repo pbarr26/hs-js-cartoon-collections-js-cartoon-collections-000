@@ -1,5 +1,5 @@
 function dwarfRollCall(dwarves) {
-  return `1. ${dwarves[0]} 2. ${dwarves[1]} 3. ${dwarves[2]}`
+return `1. ${dwarves[0]} 2. ${dwarves[1]} 3. ${dwarves[2]}`
 }
 
 function summonCaptainPlanet(planeteerCalls){ for (var i=0; i<planeteerCalls.length; i++){
