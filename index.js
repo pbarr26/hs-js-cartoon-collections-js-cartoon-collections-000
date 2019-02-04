@@ -25,5 +25,5 @@ function findTheCheese (foods) { var cheese= ["cheddar", "gouda", "camembert"]
   return foods[i]
 }
 }
-return "no cheese!"
+else (return "no cheese!")
 }
