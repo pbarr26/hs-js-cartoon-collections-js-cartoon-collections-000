@@ -1,4 +1,4 @@
-function dwarfRollCall(dwarves) { 
+function dwarfRollCall(dwarves) {
   return ("1. + ${dwarves[0]} 2+ ${dwarves[1]} 3. + ${dwarves[2]} 4.+ ${dwarves[3]}")
 }
 
